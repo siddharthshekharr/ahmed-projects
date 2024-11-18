@@ -1,0 +1,13 @@
+2024-11-17 03:27:03 | You went over. You lose 😭 | Player: 30 | Computer: 21
+2024-11-17 03:27:16 | You went over. You lose 😭 | Player: 23 | Computer: 25
+2024-11-17 03:27:18 | Lose, opponent has Blackjack 😱 | Player: 18 | Computer: 0
+2024-11-17 03:27:26 | You went over. You lose 😭 | Player: 26 | Computer: 19
+2024-11-19 01:34:59 | You went over. You lose 😭 | Player: 27 | Computer: 18
+2024-11-19 01:45:26 | Draw 🙃 | Player: 20 | Computer: 20
+2024-11-19 01:57:32 | You lose 😤 | Player: 16 | Computer: 18
+2024-11-19 02:13:56 | Opponent went over. You win 😁 | Player: 12 | Computer: 25
+2024-11-19 02:14:16 | Opponent went over. You win 😁 | Player: 14 | Computer: 23
+2024-11-19 02:17:10 | You went over. You lose 😭 | Player: 25 | Computer: 23
+2024-11-19 02:21:06 | You went over. You lose 😭 | Player: 23 | Computer: 20
+2024-11-19 02:21:28 | You win 😃 | Player: 21 | Computer: 19
+2024-11-19 02:25:49 | You went over. You lose 😭 | Player: 24 | Computer: 19
