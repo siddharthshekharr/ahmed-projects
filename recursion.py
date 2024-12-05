@@ -13,10 +13,16 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
     
-factorial(4)
+# factorial(4)
+# -> 4 * factorial(3)
+#         -> 3 * factorial(2)
+#                 -> 2 * factorial(1)
+#                         -> 1 * factorial(0)
+#                                 -> 1
 
-# Start with factorial(4)
-# factorial(4) calls factorial(3)
+# factorial(4)
+-> 24
+                               
 
 
 
