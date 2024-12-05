@@ -19,4 +19,8 @@ divide(10, 0)
 
 
 
+def send_email(email_address):
+    if '@' not in email_address:
+        raise ValueError("Invalid email address")
     
+send_email("sfsg")
